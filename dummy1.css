@@ -1,0 +1,32 @@
+*{
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .container{
+    height: 90vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+}
+/* .two{
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+}
+.three{
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+}
+.four{
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+} */
